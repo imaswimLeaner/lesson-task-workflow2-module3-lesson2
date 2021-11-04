@@ -1,0 +1,27 @@
+{
+  "name": "lesson-task-workflow2-module3-lesson2",
+  "version": "1.0.0",
+  "description": "## Lesson Task 2 Questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaswimLeaner/lesson-task-workflow2-module3-lesson2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imaswimLeaner/lesson-task-workflow2-module3-lesson2/issues"
+  },
+  "homepage": "https://github.com/imaswimLeaner/lesson-task-workflow2-module3-lesson2#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
