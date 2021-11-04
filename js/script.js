@@ -31,4 +31,5 @@ function deleteRequest() {
 	axios.delete("https://jsonplaceholder.typicode.com/posts/1");
 }
 
+
 deleteRequest();
